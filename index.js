@@ -17,7 +17,7 @@ const questions = [
    },
    {
     type: 'input',
-    name: 'Table of Contents',
+    name: 'TableofContents',
     message: 'what is in your read.me'
    },
    {
@@ -36,14 +36,10 @@ const questions = [
     message: 'List your collaborators'
    },
    {
-    type: 'input',
-    name: 'License',
-    message: 'what license did you use?'
-   },
-   {
-    type: 'input',
-    name: 'Badges',
-    message: 'what badges did you use?  Badges are not necessary, per se, but they demonstrate street cred.'
+     type: 'list', 
+     message: 'Which License would you like to include?', 
+     name: 'License', 
+     choices: ["No License", "Apache 2.0 License", "Boost", "BSD 3-Clause License", "BSD 2-Clause License", "CC0", "Attribution 4.0 International", "Attribution-ShareAlike 4.0 International", "Attribution-NonCommercial 4.0 International", "Attribution-NoDerivates 4.0 International", "Attribution-NonCommmercial-ShareAlike 4.0 International", "Attribution-NonCommercial-NoDerivatives 4.0 International", "Eclipse Public License 1.0", "GNU GPL v3", "GNU GPL v2", "GNU AGPL v3", "GNU LGPL v3", "GNU FDL v1.3", "The Hippocratic License 2.1", "The Hippocratic License 3.0", "IBM Public License Version 1.0", "ISC License (ISC)", "The MIT License", "Mozilla Public License 2.0", "Attribution License (BY)", "Open Database License (ODbL)", "Public Domain Dedication and License (PDDL)", "The Perl License", "The Artistic License 2.0", "SIL Open Font License 1.1", "The Unlicense", "The Do What the Fuck You Want to Public License", "The zlib/libpng License"]
    },
    {
     type: 'input',
@@ -52,7 +48,7 @@ const questions = [
    },
    {
     type: 'input',
-    name: 'How to Contribute',
+    name: 'HowtoContribute',
     message: 'If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so.'
    },
 

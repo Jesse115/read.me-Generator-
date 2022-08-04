@@ -4,10 +4,17 @@
   Makes A read me for all of your projects
 
   ## Table of contents
+  Installation 
+  Usage
+  Credits
+  License
+  Features
+  How to contribute 
+  Questions
   
 
   ## Installation
-  
+  just use it 
 
   ## Usage
   Respond to the questions 

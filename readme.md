@@ -5,10 +5,10 @@
 
   ## Table of contents
   Installation 
-  Usage, 
-  Credits,  
-  License,  
-  Features,  
+  Usage,   
+  Credits,    
+  License,    
+  Features,    
   How to contribute,   
   Questions,  
   

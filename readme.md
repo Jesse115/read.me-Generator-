@@ -5,7 +5,7 @@
 
   ## Table of contents
   Installation 
-  Usage
+  Usage, n/
   Credits
   License
   Features

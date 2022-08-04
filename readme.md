@@ -4,7 +4,7 @@
   Makes A read me for all of your projects
 
   ## Table of contents
-  Installation 
+  Installation,    
   Usage,   
   Credits,    
   License,    

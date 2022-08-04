@@ -38,7 +38,7 @@
 
   Email:  ftsjess@gmail.com
   
-  git@github.com:Jesse115/read.me-Generator-.git
+  https://github.com/Jesse115/read.me-Generator-
   
   https://drive.google.com/file/d/1C23WIj1kdW3ZB_to_bvI56_19gelXZ-L/view
 
